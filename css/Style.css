@@ -147,7 +147,6 @@ p{
 
 .nav .nav-items .nav-link:hover{
     background-color: var(--midnight);
-    opacity: 0.5;
 }
 
 .nav .nav-items .nav-link:hover a{
