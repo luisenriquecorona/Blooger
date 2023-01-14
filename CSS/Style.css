@@ -259,12 +259,12 @@ section .container .owl-nav{
 .owl-nav .owl-prev .owl-nav-prev,
 .owl-nav .owl-next .owl-nav-next{
     color: var(--text-gray);
-    background: rgb(219,217,217);
+    background: transparent;
     font-size: 2rem;
 }
 
 .owl-theme .owl-nav [class*='owl-']:hover{
-    background: rgb(219,217,217);
+    background: transparent;
     color: var(--midnight);
 }
 
@@ -469,7 +469,7 @@ footer.footer .container > div{
 footer.footer .container h2{
     color: var(--white);
 }
-
+ 
 footer.footer .newsletter .form-element{
     background: black;
     display: inline-block;
