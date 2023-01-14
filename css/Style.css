@@ -1,4 +1,3 @@
-
 @import url('../css/fonts.css');
 
 
@@ -265,7 +264,7 @@ section .container .owl-nav{
 }
 
 .owl-theme .owl-nav [class*='owl-']:hover{
-    background: transparent;
+    background: rgb(219,217,217);
     color: var(--midnight);
 }
 
