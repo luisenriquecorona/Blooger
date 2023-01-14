@@ -259,7 +259,7 @@ section .container .owl-nav{
 .owl-nav .owl-prev .owl-nav-prev,
 .owl-nav .owl-next .owl-nav-next{
     color: var(--text-gray);
-    background: transparent;
+    background: rgb(219,217,217);
     font-size: 2rem;
 }
 
